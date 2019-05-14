@@ -1,0 +1,7 @@
+__pycache_
+.ipynb_checkpoints
+.DS_Store_
+*.py[cod]
+.nfs*
+*.dat
+*.npz
