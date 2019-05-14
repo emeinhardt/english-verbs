@@ -1,6 +1,6 @@
 # english-verbs
 
-This repository contains a database of phonologically transcribed English verbs.
+This repository contains a database of phonologically transcribed English verbs (present and past tense).
 
  - The notebook `Extracting phonological forms of English verbs.ipynb` documents data processing and origin.
 
