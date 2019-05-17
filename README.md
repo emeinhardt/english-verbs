@@ -1,10 +1,14 @@
 # english-verbs
 
+<<<<<<< HEAD
 This repository contains a database of phonologically transcribed English verbs, organized by inflection. This database (`english-verbs-phon.tsv`) is a tab-separated value file where each row contains phonemic transcriptions of 
  - the first person present
  - the third person present
  - the first person past
  - the third person past
+=======
+This repository contains a database of phonologically transcribed English verbs (present and past tense).
+>>>>>>> b640ee4b714e0c7082c70f6620fbcb4416cacc11
 
 inflected wordforms for a single English verb.
 
